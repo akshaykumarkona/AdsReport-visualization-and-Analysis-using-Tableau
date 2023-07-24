@@ -5,4 +5,4 @@ The dataset used in this project likely contains various attributes related to a
 
 In this process, various attributes and metrics are leveraged to gain a comprehensive understanding of the ads' impact and effectiveness. The visualization aspect plays a pivotal role in presenting complex data in a visually appealing and digestible format, enabling stakeholders to make data-driven decisions and identify key patterns, trends, and opportunities.
 
-You can access this dashboard by following the below link:https://public.tableau.com/views/AdsReport/Dashboard1?:language=enGB&publish=yes&:display_count=n&:origin=viz_share_link
+You can access this dashboard by following the below link: https://public.tableau.com/views/AdsReport/Dashboard1?:language=enGB&publish=yes&:display_count=n&:origin=viz_share_link
